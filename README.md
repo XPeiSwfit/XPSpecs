@@ -1,2 +1,2 @@
-# XPKit
-一些swfit常用方法,和公共类
+# XPSpecs
+XPKit的索引库. 
